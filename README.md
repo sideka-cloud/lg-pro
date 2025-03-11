@@ -1,5 +1,4 @@
-# lg-pro
-LookingGlass Pro
+# LookingGlass Pro
 
 
 <h3>Clone Repository</h3>
