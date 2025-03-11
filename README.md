@@ -12,3 +12,7 @@
 <h3>Run LookingGlass Pro</h3>
 
 `docker run -d -p 80:80 --name lg-pro lg-pro`
+
+<h3>Access LookingGlass Pro</h3>
+
+`Access with URL: http://IP_or_domain`
